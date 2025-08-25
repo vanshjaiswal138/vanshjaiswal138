@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/vanshja71525931" target="blank"><img src="https://img.shields.io/twitter/follow/vanshja71525931?logo=twitter&style=for-the-badge" alt="vanshja71525931" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analyst Projects**
+- 🔭 I’m currently working on **Data Analyst and AI/ML Projects**
 
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Data Analytics**
 
-- 📫 How to reach me **vanshjaiswal138@gmail.com**
+- 📫 How to reach me **jaiswalvansh138@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ch_Ewniq9zK7NZNLkyCAbhHZpCODXELQ/view?usp=sharing](https://drive.google.com/file/d/1Ch_Ewniq9zK7NZNLkyCAbhHZpCODXELQ/view?usp=sharing)
 
